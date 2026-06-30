@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "iPhone 13",
+      "price": "Rp 12.500.000",
+      "image": "https://cdnpro.eraspace.com/media/catalog/product/i/p/iphone_13_starlight_1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "iPhone 17 Pro Max",
+      "price": "Rp 28.000.000",
+      "image": "https://cdnpro.eraspace.com/media/catalog/product/i/p/iphone-17-pro-max-silver-1000_1_1.webp"
+    },
+    {
+      "id": "3",
+      "name": "iPhone 14",
+      "price": "Rp 15.500.000",
+      "image": "https://ibox.co.id/_next/image?url=https%3A%2F%2Fcdnpro.eraspace.com%2Fmedia%2Fcatalog%2Fproduct%2Fi%2Fp%2Fiphone_14_blue_1.jpg&w=1080&q=45"
+    },
+    {
+      "id": "4",
+      "name": "iPhone 14 Pro",
+      "price": "Rp 20.000.000",
+      "image": "https://cdnpro.eraspace.com/media/catalog/product/i/p/iphone_14_pro_deep_purple_1.jpg"
+    },
+    {
+      "id": "5",
+      "name": "iPhone 15",
+      "price": "Rp 17.500.000",
+      "image": "https://cdnpro.eraspace.com/media/catalog/product/a/p/apple_iphone_15_blue_1.jpg"
+    },
+    {
+      "id": "6",
+      "name": "iPhone 15 Pro",
+      "price": "Rp 25.000.000",
+      "image": "https://cdnpro.eraspace.com/media/catalog/product/a/p/apple_iphone_15_pro_natural_titanium_1_4.jpg"
+    },
+    {
+      "id": "7",
+      "name": "iPhone 16",
+      "price": "Rp 18.500.000",
+      "image": "https://ibox.co.id/_next/image?url=https%3A%2F%2Fcdnpro.eraspace.com%2Fmedia%2Fcatalog%2Fproduct%2Fi%2Fp%2Fiphone_16_ultramarine_01_3.jpg&w=1080&q=45"
+    },
+    {
+      "id": "8",
+      "name": "iPhone 17",
+      "price": "Rp 20.500.000",
+      "image": "https://cdnpro.eraspace.com/media/catalog/product/i/p/iphone-17-lavender-1000_1_1.webp"
+    }
+  ]
+}
